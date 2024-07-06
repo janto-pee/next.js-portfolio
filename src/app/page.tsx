@@ -4,7 +4,6 @@ import Portfolio from "@/components/Portfolio/Portfolio";
 import Resume from "@/components/Resume/Resume";
 import Skills from "@/components/Skills/Skills";
 import Testimonial from "@/components/Testimonial/Testimonial";
-import Image from "next/image";
 
 export default function Home() {
   return (
